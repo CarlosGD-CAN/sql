@@ -72,6 +72,14 @@ Please do not pick the exact same tables that I have already diagramed. For exam
 **A few hints**:
 - You will need to use the Browse Data tab in the main window to figure out the relationship types.
 - You can't diagram tables that don't share a common column
+
+ANSWER:
+Here is my result in Excel: "C:\Users\Polar\OneDrive\Desktop\Assigments\Homework_1_SQL.xlsx" 
+
+Here is my result in a picture: ![Homework_1_SQL](https://github.com/user-attachments/assets/be488f1a-b647-4956-9dc1-c4113720de3f)
+
+Thanks!
+
 	- These are the tables that are connected
 	-  ![01_farmers_market_conceptual_model.png](./images/01_farmers_market_conceptual_model.png)
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
