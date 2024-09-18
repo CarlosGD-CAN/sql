@@ -56,3 +56,6 @@ SELECT customer_id, SUM(quantity * cost_to_customer_per_qty) AS total_spent
 FROM customer_purchases
 WHERE STRFTIME('%Y-%m', purchase_date) = '2019-04'
 GROUP BY customer_id;
+
+[Uploading farmersmarket.sqbpro…]()
+
